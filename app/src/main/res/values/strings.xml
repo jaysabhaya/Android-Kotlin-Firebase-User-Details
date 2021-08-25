@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Firebase User Details</string>
+
+    <!--Authentication-->
+    <string name="login">Login</string>
+    <string name="enter_mobile">Mobile</string>
+    <string name="enter_password">Password</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="validate_mobile_blank">Mobile no can\'t be blank</string>
+    <string name="validate_mobile_length">Enter valid number</string>
+    <string name="validate_password_blank">Password can\'t be blank</string>
+    <string name="validate_password_length">Enter 6 digit or above password</string>
+    <string name="validate_confirm_password"><![CDATA[Password & Confirm password must be same]]></string>
+
+
+</resources>
